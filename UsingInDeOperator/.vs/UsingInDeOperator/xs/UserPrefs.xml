@@ -1,9 +1,8 @@
 ﻿<Properties StartupConfiguration="{EECD6BB7-E54C-4252-8115-59B87C8F9EBB}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="../helloworld_2/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
       <File FileName="Program.cs" Line="32" Column="23" />
-      <File FileName="../usingmathoperate/Program.cs" Line="15" Column="2" />
-      <File FileName="../helloworld_2/Program.cs" Line="18" Column="17" />
+      <File FileName="../helloworld_2/Program.cs" Line="18" Column="37" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
