@@ -1,0 +1,13 @@
+/Users/way/Projects/c_sharp_learning/usingmathoperate/obj/Debug/netcoreapp3.1/usingmathoperate.csproj.AssemblyReference.cache
+/Users/way/Projects/c_sharp_learning/usingmathoperate/obj/Debug/netcoreapp3.1/usingmathoperate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/way/Projects/c_sharp_learning/usingmathoperate/obj/Debug/netcoreapp3.1/usingmathoperate.AssemblyInfoInputs.cache
+/Users/way/Projects/c_sharp_learning/usingmathoperate/obj/Debug/netcoreapp3.1/usingmathoperate.AssemblyInfo.cs
+/Users/way/Projects/c_sharp_learning/usingmathoperate/obj/Debug/netcoreapp3.1/usingmathoperate.csproj.CoreCompileInputs.cache
+/Users/way/Projects/c_sharp_learning/usingmathoperate/bin/Debug/netcoreapp3.1/usingmathoperate.deps.json
+/Users/way/Projects/c_sharp_learning/usingmathoperate/bin/Debug/netcoreapp3.1/usingmathoperate.runtimeconfig.json
+/Users/way/Projects/c_sharp_learning/usingmathoperate/bin/Debug/netcoreapp3.1/usingmathoperate.runtimeconfig.dev.json
+/Users/way/Projects/c_sharp_learning/usingmathoperate/bin/Debug/netcoreapp3.1/usingmathoperate.dll
+/Users/way/Projects/c_sharp_learning/usingmathoperate/bin/Debug/netcoreapp3.1/usingmathoperate.pdb
+/Users/way/Projects/c_sharp_learning/usingmathoperate/obj/Debug/netcoreapp3.1/usingmathoperate.dll
+/Users/way/Projects/c_sharp_learning/usingmathoperate/obj/Debug/netcoreapp3.1/usingmathoperate.pdb
+/Users/way/Projects/c_sharp_learning/usingmathoperate/obj/Debug/netcoreapp3.1/usingmathoperate.genruntimeconfig.cache
