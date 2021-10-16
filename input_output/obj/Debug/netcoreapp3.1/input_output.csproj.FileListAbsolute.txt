@@ -1,0 +1,13 @@
+/Users/way/Projects/c_sharp_learning/input_output/bin/Debug/netcoreapp3.1/input_output.deps.json
+/Users/way/Projects/c_sharp_learning/input_output/bin/Debug/netcoreapp3.1/input_output.runtimeconfig.json
+/Users/way/Projects/c_sharp_learning/input_output/bin/Debug/netcoreapp3.1/input_output.runtimeconfig.dev.json
+/Users/way/Projects/c_sharp_learning/input_output/bin/Debug/netcoreapp3.1/input_output.dll
+/Users/way/Projects/c_sharp_learning/input_output/bin/Debug/netcoreapp3.1/input_output.pdb
+/Users/way/Projects/c_sharp_learning/input_output/obj/Debug/netcoreapp3.1/input_output.csproj.AssemblyReference.cache
+/Users/way/Projects/c_sharp_learning/input_output/obj/Debug/netcoreapp3.1/input_output.GeneratedMSBuildEditorConfig.editorconfig
+/Users/way/Projects/c_sharp_learning/input_output/obj/Debug/netcoreapp3.1/input_output.AssemblyInfoInputs.cache
+/Users/way/Projects/c_sharp_learning/input_output/obj/Debug/netcoreapp3.1/input_output.AssemblyInfo.cs
+/Users/way/Projects/c_sharp_learning/input_output/obj/Debug/netcoreapp3.1/input_output.csproj.CoreCompileInputs.cache
+/Users/way/Projects/c_sharp_learning/input_output/obj/Debug/netcoreapp3.1/input_output.dll
+/Users/way/Projects/c_sharp_learning/input_output/obj/Debug/netcoreapp3.1/input_output.pdb
+/Users/way/Projects/c_sharp_learning/input_output/obj/Debug/netcoreapp3.1/input_output.genruntimeconfig.cache
