@@ -1,0 +1,13 @@
+/Users/way/Projects/c_sharp_learning/UsingInDeOperator/bin/Debug/netcoreapp3.1/UsingInDeOperator.deps.json
+/Users/way/Projects/c_sharp_learning/UsingInDeOperator/bin/Debug/netcoreapp3.1/UsingInDeOperator.runtimeconfig.json
+/Users/way/Projects/c_sharp_learning/UsingInDeOperator/bin/Debug/netcoreapp3.1/UsingInDeOperator.runtimeconfig.dev.json
+/Users/way/Projects/c_sharp_learning/UsingInDeOperator/bin/Debug/netcoreapp3.1/UsingInDeOperator.dll
+/Users/way/Projects/c_sharp_learning/UsingInDeOperator/bin/Debug/netcoreapp3.1/UsingInDeOperator.pdb
+/Users/way/Projects/c_sharp_learning/UsingInDeOperator/obj/Debug/netcoreapp3.1/UsingInDeOperator.csproj.AssemblyReference.cache
+/Users/way/Projects/c_sharp_learning/UsingInDeOperator/obj/Debug/netcoreapp3.1/UsingInDeOperator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/way/Projects/c_sharp_learning/UsingInDeOperator/obj/Debug/netcoreapp3.1/UsingInDeOperator.AssemblyInfoInputs.cache
+/Users/way/Projects/c_sharp_learning/UsingInDeOperator/obj/Debug/netcoreapp3.1/UsingInDeOperator.AssemblyInfo.cs
+/Users/way/Projects/c_sharp_learning/UsingInDeOperator/obj/Debug/netcoreapp3.1/UsingInDeOperator.csproj.CoreCompileInputs.cache
+/Users/way/Projects/c_sharp_learning/UsingInDeOperator/obj/Debug/netcoreapp3.1/UsingInDeOperator.dll
+/Users/way/Projects/c_sharp_learning/UsingInDeOperator/obj/Debug/netcoreapp3.1/UsingInDeOperator.pdb
+/Users/way/Projects/c_sharp_learning/UsingInDeOperator/obj/Debug/netcoreapp3.1/UsingInDeOperator.genruntimeconfig.cache

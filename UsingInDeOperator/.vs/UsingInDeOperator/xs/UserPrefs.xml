@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{70102A7F-A3F4-49BD-A12D-C091730FA526}|Default">
+﻿<Properties StartupConfiguration="{EECD6BB7-E54C-4252-8115-59B87C8F9EBB}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="6" Column="1" />
-      <File FileName="../input_output/Program.cs" Line="11" Column="1" />
+      <File FileName="Program.cs" Line="13" Column="1" />
+      <File FileName="../usingmathoperate/Program.cs" Line="15" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="usingmathoperate" expanded="True">
-            <Node name="usingmathoperate" expanded="True">
+          <Node name="UsingInDeOperator" expanded="True">
+            <Node name="UsingInDeOperator" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -19,7 +19,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.usingmathoperate PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.UsingInDeOperator FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
