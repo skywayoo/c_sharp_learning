@@ -1,0 +1,13 @@
+/Users/way/Projects/c_sharp_learning/helloworld_2/bin/Debug/netcoreapp3.1/helloworld_2.deps.json
+/Users/way/Projects/c_sharp_learning/helloworld_2/bin/Debug/netcoreapp3.1/helloworld_2.runtimeconfig.json
+/Users/way/Projects/c_sharp_learning/helloworld_2/bin/Debug/netcoreapp3.1/helloworld_2.runtimeconfig.dev.json
+/Users/way/Projects/c_sharp_learning/helloworld_2/bin/Debug/netcoreapp3.1/helloworld_2.dll
+/Users/way/Projects/c_sharp_learning/helloworld_2/bin/Debug/netcoreapp3.1/helloworld_2.pdb
+/Users/way/Projects/c_sharp_learning/helloworld_2/obj/Debug/netcoreapp3.1/helloworld_2.csproj.AssemblyReference.cache
+/Users/way/Projects/c_sharp_learning/helloworld_2/obj/Debug/netcoreapp3.1/helloworld_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/way/Projects/c_sharp_learning/helloworld_2/obj/Debug/netcoreapp3.1/helloworld_2.AssemblyInfoInputs.cache
+/Users/way/Projects/c_sharp_learning/helloworld_2/obj/Debug/netcoreapp3.1/helloworld_2.AssemblyInfo.cs
+/Users/way/Projects/c_sharp_learning/helloworld_2/obj/Debug/netcoreapp3.1/helloworld_2.csproj.CoreCompileInputs.cache
+/Users/way/Projects/c_sharp_learning/helloworld_2/obj/Debug/netcoreapp3.1/helloworld_2.dll
+/Users/way/Projects/c_sharp_learning/helloworld_2/obj/Debug/netcoreapp3.1/helloworld_2.pdb
+/Users/way/Projects/c_sharp_learning/helloworld_2/obj/Debug/netcoreapp3.1/helloworld_2.genruntimeconfig.cache
